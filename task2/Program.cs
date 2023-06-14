@@ -4,7 +4,7 @@
 // a = 9, b = -3 -> да
 // a = -3 b = 9 -> нет
 
-Console.Write("Введите прервое число: ");
+Console.Write("Введgите прервое число: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int numberB = Convert.ToInt32(Console.ReadLine());
