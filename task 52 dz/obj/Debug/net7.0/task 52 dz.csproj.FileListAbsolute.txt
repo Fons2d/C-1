@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 52 dz/bin/Debug/net7.0/task 52 dz
+/Users/igorsalahov/Desktop/c#/task 52 dz/bin/Debug/net7.0/task 52 dz.deps.json
+/Users/igorsalahov/Desktop/c#/task 52 dz/bin/Debug/net7.0/task 52 dz.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 52 dz/bin/Debug/net7.0/task 52 dz.dll
+/Users/igorsalahov/Desktop/c#/task 52 dz/bin/Debug/net7.0/task 52 dz.pdb
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.dll
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/refint/task 52 dz.dll
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.pdb
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/task 52 dz.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 52 dz/obj/Debug/net7.0/ref/task 52 dz.dll

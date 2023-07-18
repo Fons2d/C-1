@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 49/bin/Debug/net7.0/task 49
+/Users/igorsalahov/Desktop/c#/task 49/bin/Debug/net7.0/task 49.deps.json
+/Users/igorsalahov/Desktop/c#/task 49/bin/Debug/net7.0/task 49.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 49/bin/Debug/net7.0/task 49.dll
+/Users/igorsalahov/Desktop/c#/task 49/bin/Debug/net7.0/task 49.pdb
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.dll
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/refint/task 49.dll
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.pdb
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/task 49.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 49/obj/Debug/net7.0/ref/task 49.dll

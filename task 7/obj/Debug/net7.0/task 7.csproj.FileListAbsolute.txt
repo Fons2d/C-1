@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 7/bin/Debug/net7.0/task 7
+/Users/igorsalahov/Desktop/c#/task 7/bin/Debug/net7.0/task 7.deps.json
+/Users/igorsalahov/Desktop/c#/task 7/bin/Debug/net7.0/task 7.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 7/bin/Debug/net7.0/task 7.dll
+/Users/igorsalahov/Desktop/c#/task 7/bin/Debug/net7.0/task 7.pdb
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.dll
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/refint/task 7.dll
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.pdb
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/task 7.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 7/obj/Debug/net7.0/ref/task 7.dll

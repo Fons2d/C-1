@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 34/bin/Debug/net7.0/task 34
+/Users/igorsalahov/Desktop/c#/task 34/bin/Debug/net7.0/task 34.deps.json
+/Users/igorsalahov/Desktop/c#/task 34/bin/Debug/net7.0/task 34.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 34/bin/Debug/net7.0/task 34.dll
+/Users/igorsalahov/Desktop/c#/task 34/bin/Debug/net7.0/task 34.pdb
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.dll
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/refint/task 34.dll
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.pdb
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/task 34.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 34/obj/Debug/net7.0/ref/task 34.dll

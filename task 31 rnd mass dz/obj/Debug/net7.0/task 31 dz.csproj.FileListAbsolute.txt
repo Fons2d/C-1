@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 31 dz/bin/Debug/net7.0/task 31 dz
+/Users/igorsalahov/Desktop/c#/task 31 dz/bin/Debug/net7.0/task 31 dz.deps.json
+/Users/igorsalahov/Desktop/c#/task 31 dz/bin/Debug/net7.0/task 31 dz.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 31 dz/bin/Debug/net7.0/task 31 dz.dll
+/Users/igorsalahov/Desktop/c#/task 31 dz/bin/Debug/net7.0/task 31 dz.pdb
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.dll
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/refint/task 31 dz.dll
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.pdb
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/task 31 dz.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 31 dz/obj/Debug/net7.0/ref/task 31 dz.dll

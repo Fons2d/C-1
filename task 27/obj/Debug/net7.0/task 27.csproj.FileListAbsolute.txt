@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 27/bin/Debug/net7.0/task 27
+/Users/igorsalahov/Desktop/c#/task 27/bin/Debug/net7.0/task 27.deps.json
+/Users/igorsalahov/Desktop/c#/task 27/bin/Debug/net7.0/task 27.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 27/bin/Debug/net7.0/task 27.dll
+/Users/igorsalahov/Desktop/c#/task 27/bin/Debug/net7.0/task 27.pdb
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.dll
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/refint/task 27.dll
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.pdb
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/task 27.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 27/obj/Debug/net7.0/ref/task 27.dll

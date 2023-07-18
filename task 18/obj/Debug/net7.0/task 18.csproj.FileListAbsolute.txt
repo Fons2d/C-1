@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 18/bin/Debug/net7.0/task 18
+/Users/igorsalahov/Desktop/c#/task 18/bin/Debug/net7.0/task 18.deps.json
+/Users/igorsalahov/Desktop/c#/task 18/bin/Debug/net7.0/task 18.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 18/bin/Debug/net7.0/task 18.dll
+/Users/igorsalahov/Desktop/c#/task 18/bin/Debug/net7.0/task 18.pdb
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.dll
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/refint/task 18.dll
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.pdb
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/task 18.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 18/obj/Debug/net7.0/ref/task 18.dll

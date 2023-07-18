@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 48/bin/Debug/net7.0/task 48
+/Users/igorsalahov/Desktop/c#/task 48/bin/Debug/net7.0/task 48.deps.json
+/Users/igorsalahov/Desktop/c#/task 48/bin/Debug/net7.0/task 48.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 48/bin/Debug/net7.0/task 48.dll
+/Users/igorsalahov/Desktop/c#/task 48/bin/Debug/net7.0/task 48.pdb
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.dll
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/refint/task 48.dll
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.pdb
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/task 48.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 48/obj/Debug/net7.0/ref/task 48.dll

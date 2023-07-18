@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 44/bin/Debug/net7.0/task 44
+/Users/igorsalahov/Desktop/c#/task 44/bin/Debug/net7.0/task 44.deps.json
+/Users/igorsalahov/Desktop/c#/task 44/bin/Debug/net7.0/task 44.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 44/bin/Debug/net7.0/task 44.dll
+/Users/igorsalahov/Desktop/c#/task 44/bin/Debug/net7.0/task 44.pdb
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.dll
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/refint/task 44.dll
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.pdb
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/task 44.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 44/obj/Debug/net7.0/ref/task 44.dll

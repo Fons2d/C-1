@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 45/bin/Debug/net7.0/task 45
+/Users/igorsalahov/Desktop/c#/task 45/bin/Debug/net7.0/task 45.deps.json
+/Users/igorsalahov/Desktop/c#/task 45/bin/Debug/net7.0/task 45.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 45/bin/Debug/net7.0/task 45.dll
+/Users/igorsalahov/Desktop/c#/task 45/bin/Debug/net7.0/task 45.pdb
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.dll
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/refint/task 45.dll
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.pdb
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/task 45.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 45/obj/Debug/net7.0/ref/task 45.dll

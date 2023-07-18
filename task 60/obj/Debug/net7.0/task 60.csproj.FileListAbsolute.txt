@@ -1,0 +1,15 @@
+/Users/igorsalahov/Desktop/c#/task 60/bin/Debug/net7.0/task 60
+/Users/igorsalahov/Desktop/c#/task 60/bin/Debug/net7.0/task 60.deps.json
+/Users/igorsalahov/Desktop/c#/task 60/bin/Debug/net7.0/task 60.runtimeconfig.json
+/Users/igorsalahov/Desktop/c#/task 60/bin/Debug/net7.0/task 60.dll
+/Users/igorsalahov/Desktop/c#/task 60/bin/Debug/net7.0/task 60.pdb
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.csproj.AssemblyReference.cache
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.AssemblyInfoInputs.cache
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.AssemblyInfo.cs
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.csproj.CoreCompileInputs.cache
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.dll
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/refint/task 60.dll
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.pdb
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/task 60.genruntimeconfig.cache
+/Users/igorsalahov/Desktop/c#/task 60/obj/Debug/net7.0/ref/task 60.dll
