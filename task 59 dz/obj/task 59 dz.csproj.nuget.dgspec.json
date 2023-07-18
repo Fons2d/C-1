@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/igorsalahov/Desktop/c#/c#.csproj": {}
+    "/Users/igorsalahov/Desktop/c#/task 59 dz/task 59 dz.csproj": {}
   },
   "projects": {
-    "/Users/igorsalahov/Desktop/c#/c#.csproj": {
+    "/Users/igorsalahov/Desktop/c#/task 59 dz/task 59 dz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/igorsalahov/Desktop/c#/c#.csproj",
-        "projectName": "c#",
-        "projectPath": "/Users/igorsalahov/Desktop/c#/c#.csproj",
+        "projectUniqueName": "/Users/igorsalahov/Desktop/c#/task 59 dz/task 59 dz.csproj",
+        "projectName": "task 59 dz",
+        "projectPath": "/Users/igorsalahov/Desktop/c#/task 59 dz/task 59 dz.csproj",
         "packagesPath": "/Users/igorsalahov/.nuget/packages/",
-        "outputPath": "/Users/igorsalahov/Desktop/c#/obj/",
+        "outputPath": "/Users/igorsalahov/Desktop/c#/task 59 dz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/igorsalahov/.nuget/NuGet/NuGet.Config"
